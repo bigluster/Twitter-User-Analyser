@@ -5,6 +5,7 @@
 /* Version 1.0
 A Qlik Sense app that is using Qlik REST Connector to load data from Twitter. Is has some limitation of rows loaded from Twitter.
 
+![Screen 1](https://raw.githubusercontent.com/marosvongrej/Twitter-User-Analyser/master/QS1.png "Screen 1")
 
 To use this app in Qlik Sense you need to: 
 
@@ -61,7 +62,7 @@ Now you have all information needed for Qlik Rest Connector, to create new Qlik 
 
 ![Screen 2](https://raw.githubusercontent.com/marosvongrej/Twitter-User-Analyser/master/QSSET1.png "Screen 2")
 
-![Screen 2](https://raw.githubusercontent.com/marosvongrej/Twitter-User-Analyser/master/QSSET2.png "Screen 2")
+![Screen 3](https://raw.githubusercontent.com/marosvongrej/Twitter-User-Analyser/master/QSSET2.png "Screen 3")
 
 1. Open data load editor and in the right corner click create new connection
 
